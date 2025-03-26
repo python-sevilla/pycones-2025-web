@@ -36,18 +36,42 @@ Es importante decir que Sevilla cuenta con una vibrante comunidad tecnológica, 
 
 Este escenario pone de manifiesto que Sevilla no solo ofrece un inspirador entorno cultural, sino que también está a la vanguardia del desarrollo tecnológico y la innovación, haciendo de la ciudad un lugar idóneo para albergar eventos de tecnología como la PyCon España.
 
-## Como ciudad conectada
+# Cómo llegar a Sevilla
 
-Sevilla se encuentra perfectamente conectada, tanto a nivel nacional como internacional, gracias a su moderna red de infraestructuras de transporte. La ciudad es fácilmente accesible para asistentes de todo el mundo, lo que la convierte en una sede ideal para eventos y congresos, nacionales e internacionales.
+Sevilla es una ciudad bien conectada por distintos medios de transporte, facilitando el acceso desde cualquier punto de España y del extranjero.
 
-La ciudad cuenta con una de las principales estaciones de tren de alta velocidad (AVE) en España, Santa Justa, que conecta la ciudad con Madrid en poco más de dos horas. Las líneas AVE también ofrecen conexiones directas con otras ciudades importantes como Barcelona, Valencia, Zaragoza, Málaga y Córdoba, permitiendo a los asistentes nacionales desplazarse cómodamente. Esta infraestructura no solo facilita los viajes dentro del país, sino que también convierte a Sevilla en un nodo estratégico de conexión para eventos con un alto número de asistentes.
+## ✈️ En Avión
+- **Aeropuerto de Sevilla - San Pablo (SVQ)**
+  - Ubicado a **10 km** del centro de la ciudad.
+  - Conexiones nacionales e internacionales con múltiples aerolíneas.
+  - **Transporte desde el aeropuerto**:
+    - 🚌 **Línea de autobús EA (Especial Aeropuerto)**: Llega al centro en **35 min**.
+    - 🚖 **Taxis y VTC** disponibles en la terminal.
 
-El modesto aeropuerto internacional de Sevilla, San Pablo, conecta la ciudad con más de 50 destinos, incluyendo numerosas capitales y ciudades europeas clave, como Londres, París, Ámsterdam, Berlín, Roma y Turquía. A tan solo 15 o 20 minutos del centro de la ciudad, el aeropuerto ofrece conexiones rápidas y eficientes, facilitando la llegada de visitantes internacionales. Además, recientes ampliaciones y modernizaciones han mejorado su capacidad y servicios, convirtiéndolo en un punto de entrada más cómodo y accesible.
+## 🚆 En Tren
+- **Estación de Sevilla-Santa Justa**
+  - Conexiones de **Alta Velocidad (AVE)** con Madrid, Barcelona, Málaga y Valencia.
+  - Trenes de **Media Distancia** con ciudades andaluzas como Córdoba, Cádiz y Granada.
+  - **Cómo llegar desde la estación**:
+    - 🚇 Metro (línea 1 a Nervión y Prado de San Sebastián).
+    - 🚌 Líneas de autobuses urbanos.
+    - 🚖 Taxis disponibles en la salida.
+
+## 🚌 En Autobús
+- **Estaciones principales**:
+  - **Estación Plaza de Armas**: Conexiones nacionales e internacionales.
+  - **Estación Prado de San Sebastián**: Líneas regionales y urbanas.
+- Empresas como ALSA, Socibus y Avanza ofrecen rutas desde distintas ciudades.
+
+## 🚗 En Coche
+- Principales autovías de acceso:
+  - **A-4** (Madrid - Sevilla).
+  - **A-92** (Granada - Sevilla).
+  - **AP-4** (Cádiz - Sevilla, vía de peaje).
+  - **A-49** (Huelva - Sevilla).
 
 
-Dentro de la ciudad, Sevilla cuenta con una amplia red de transporte público, que incluye autobuses, tranvías y una línea de metro que conecta sus principales puntos de interés, recorriendo la ciudad a lo largo de su eje este-oeste e incluyendo algunos pueblos cercanos. Además, su extensa red de carriles bici, una de las mayores de toda Europa, hace que el transporte sostenible sea una opción accesible para los asistentes a los eventos.
-
-En definitiva, la excelente conectividad de Sevilla, tanto a nivel nacional como internacional, asegura que los asistentes a cualquier evento puedan llegar de manera cómoda y rápida desde cualquier parte del mundo.
+Sevilla cuenta con una infraestructura de transporte eficiente que permite llegar desde distintos puntos del país y del extranjero de manera rápida y cómoda.
 
 
 ## Como ciudad universitaria
