@@ -1,0 +1,24 @@
+<h2 class="title is-2">Fila 0</h2>
+<p>
+    Gracias a las siguientes personas y entidades por comprar una entrada de fila 0.
+    A continuación, aquellas que han querido hacer pública su contribución:
+</p>
+
+{% for sponsor in FILA0 %}
+    {% if sponsor['members'] %}
+        <div class="sponsor_grid-container" style="grid-template-columns: repeat(auto-fill, minmax({{ sponsor['size'] }}, 1fr));">
+            {% for member in sponsor['members'] %}
+                <div class="sponsor_card">
+                    {% if member.photo %}
+                        {{ member.name }}
+                        <figure class="image">
+                             <img src="{{SITEURL}}{{ member.photo }}" alt="{{ member.name }}">
+                        </figure>
+                    {% else %}
+                            {{ member.name }}
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+{% endfor %}

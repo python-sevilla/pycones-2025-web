@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Fila 0",
+        "size": "200px",
+        "size_schedule": "200px",
+        "order": 1,
+        "members": [
+            {
+                "name": "manychat",
+                "photo": "//theme/images/sponsors/fila0/manychat.png"
+            },
+            {
+                "name": "Estela B",
+                "photo": "/theme/images/sponsors/fila0/fila0.png"
+            },
+            {
+                "name": "Vicente Herrera",
+                "photo": "/theme/images/sponsors/fila0/vicente.png"
+            }
+        ]
+    }
+
+]

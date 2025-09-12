@@ -16,7 +16,7 @@ SPONSORS = load_json_from_data("sponsors.json")
 ADDONS = load_json_from_data("add-ons.json")
 KEYNOTERS = load_json_from_data("keynoters.json")
 ORGANIZERS = load_json_from_data("organizers.json")
-
+FILA0 = load_json_from_data("fila0.json")
 EVENT_TITLE = "PyConES 2025"
 EVENT_SUBTITLE = "Sevilla"
 EVENT_DESCRIPTION_MINI = "PyConES, la conferencia de Python más importante de España"
