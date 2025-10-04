@@ -1,4 +1,19 @@
 [
+        {
+        "level_name": "colaborador_princial",
+        "title": "Colaborador Principal",
+        "size": "300px",
+        "size_schedule": "500px",
+        "order": 1,
+        "members": [
+            {
+                "name": "EuroPython Society",
+                "photo": "/theme/images/sponsors/colaborador-principal/eps.png",
+                "url": "https://www.europython-society.org/"
+            }
+
+        ]
+    },
     {
         "level_name": "pan_de_oro",
         "title": "Pan de Oro",
