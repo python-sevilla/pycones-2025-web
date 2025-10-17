@@ -50,5 +50,6 @@ Cuenta con una **excelente accesibilidad**, estando conectada por **numerosos me
 
 Por otro lado, mencionar que el campus cuenta con acceso a Internet mediante dos redes inalámbricas:  eduroam (para miembros de instituciones académicas y universitarias de toda Europa) y wupolan (con acceso para la comunidad universitaria de la propia UPO).
 
+### [📍 Mapa del evento y sitios de interes (Google Maps)](https://www.google.com/maps/d/viewer?mid=1zxxDyO5hZdMc0zaXUUCc27NzF8g9KZ0&ll=37.355467574699134%2C-5.938824139477674&z=16)
 
-![mapa](https://www.upo.es/cms1/export/sites/upo/infraestructuras/planimetria/imagenes/Plano-General-del-Campus.jpg?style=centerme)
+![Mapa del campus UPO](../images/Mapa_PyConES2025_v3.png)
