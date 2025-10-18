@@ -345,6 +345,50 @@
     },
   {
       "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "Fever",
+      "position": "Senior Data Scientist",
+      "description": "Data Scientists at Fever bridge business and engineering to drive smarter decisions and personalization. They own projects end-to-end—analyzing, building, and deploying solutions—while fostering a strong data culture of learning, collaboration, and technical excellence.",
+      "location": "Hybrid, Spain",
+      "skills": [],
+      "salary": "50-80k +10% + stock options",
+      "url": "https://careers.feverup.com/jobs/4093807101/senior-data-scientist/",
+      "email": "pedro.negredo@feverup.com"
+    },
+  {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "Fever",
+      "position": "Senior Data Engineer\n",
+      "description": "As a Senior Data Engineer at Fever, you’ll design and build scalable, reliable data products—APIs, dashboards, and reports—using tools like Snowflake, DBT, and Airflow. You’ll turn complex needs into impactful solutions across engineering, product, and business teams.",
+      "location": "Hybrid, Spain",
+      "skills": [],
+      "salary": "50-70k + 10% + stock options",
+      "url": "https://careers.feverup.com/jobs/4375992101/senior-data-engineer/",
+      "email": "pedro.negredo@feverup.com"
+    },
+  {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "Fever",
+      "position": "Senior Data Platform",
+      "description": "Join Fever’s Data Platform team to build core systems that empower data scientists and analysts. You’ll design tools and infrastructure for governance, observability, and scalability, enabling efficient, data-driven decisions across the company.",
+      "location": "Hybrid, Spain",
+      "skills": [],
+      "salary": "50-70k + 10% + stock options",
+      "url": "https://careers.feverup.com/jobs/4652138101/senior-data-platform-engineer/",
+      "email": "pedro.negredo@feverup.com"
+    },
+  {
+      "company_avatar": "https://dummyimage.com/25x25",
+      "company_name": "Fever",
+      "position": "Senior Software Engineer (Data-AI)",
+      "description": "We’re looking for a Software Engineer to join Fever’s Data team, building scalable services and infrastructure that power data workflows and deploy machine learning models, turning insights into reliable, production-ready systems across the company.",
+      "location": "Hybrid, Madrid",
+      "skills": [],
+      "salary": "50-70k + 10% + stock options",
+      "url": "https://careers.feverup.com/jobs/4691565101/senior-software-engineer-data-ai/",
+      "email": "pedro.negredo@feverup.com"
+    },
+  {
+      "company_avatar": "https://dummyimage.com/25x25",
       "company_name": "Bloomberg",
       "position": "Senior Software Engineer - ETL Pipeline Orchestration Platform",
       "description": "Visit https://bloomberg.avature.net/careers/JobDetailPartner?jobId=14228&source=&tags=&user=&formValues= for more details",
