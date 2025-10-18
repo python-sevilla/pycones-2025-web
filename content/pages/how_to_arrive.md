@@ -35,3 +35,38 @@ Summary: Cómo llegar a Sevilla
 <a name="descuentotren"></a>
 ## **Si vienes en tren  🚆**
 Si vienes en tren, puedes obtener un **5% de descuento** siguiendo los siguientes [pasos al comprar los billetes de tren](https://www.renfe.com/es/es/viajar/prepara-tu-viaje/descuentos/congresos-y-eventos/tutorial.html) y haciendo uso de este documento (**Importante**: descargar este <a href="https://2025.es.pycon.org/theme/files/renfe-descuento-pycones.pdf" target="_blank" download>documento</a>, te lo pediran durante el viaje). Valido para los viajes con salida y destino Sevilla para los días de la conferencia. [Condiciones de uso](https://www.renfe.com/es/es/viajar/prepara-tu-viaje/descuentos/congresos-y-eventos) y más información en la web de [Renfe](https://www.renfe.com/es/es).
+
+
+## Como llegar a la Universidad Pablo Olavide
+
+[Información útil](https://www.upo.es/estudiantes/en/why-study-at-upo/seville/Transporte-00001/) publicada en la web de la Universidad
+
+### Metro 🚇
+
+El [metro de Sevilla](https://www.metro-sevilla.es/) cuenta con una sola linea, la linea 1 que une los pueblos de Mairena del Aljarafe, San Juan de Aznalfarache, Dos Hermanas con Sevilla.
+Para llegar a la Universidad de la Olavide hay que bajarse en la parada "Pablo de Olavide"
+
+Aquí está el mapa con las paradas, los [horarios y precios](https://www.metro-sevilla.es/horarios-y-tarifas) y la consulta de los [próximos trenes](https://www.metro-sevilla.es/proximos)
+
+### Autobus 🚌
+
+La empresa de autobuses Tussam de Sevilla tiene disponibles la [línea 38 o la línea 38A](https://reddelineas.tussam.es/?linea=38&lang=es) de autobuses para llegar a la Universidad
+
+<!--
+### Taxi 🚕
+
+-->
+
+### Coche 🚗
+
+Si llegas a Sevilla en coche, puede ser una buena idea dejar el coche en el parking de la Universidad Pablo Olavide y moverse en transporte público por la ciudad. Aparcar por el centro de Sevilla, e incluso por zonas no tan céntricas, puede no ser una buena idea.
+
+Puedes dejar tu coche en el parking [parking P1](https://maps.app.goo.gl/kFmj2h59A9gVhRm27)
+
+### Parking 🅿️
+Estas son las condiciones para aparcar en la Universidad:
+
+- Los vehiculos podrán estar aparcador durante todo el evento. Sin limitaciones de movilidad de los coches durante el día.
+- Por las noches, los vehículos sólo podrán dejarse en el [parking P1](https://maps.app.goo.gl/kFmj2h59A9gVhRm27) de la universidad.
+- El recindo del parking permanece cerrado por las noches y no se puede acceder a los vehículos de 12 de la noche a 6 am de la mañana.
+- La Universidad no se hace responsable de lo que le pueda pasar a su vehículo mientras esté aparcado en sus instalaciones.
