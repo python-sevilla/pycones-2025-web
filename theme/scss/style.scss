@@ -1,0 +1,467 @@
+@charset "utf-8";
+
+// PALETA COLORES
+$pycon-grey: #B7B7B7;
+$pycon-beige: #EEE9D7;
+$pycon-dark-blue: #03004B;
+$pycon-red: #AB2200;
+$pycon-green: #01AD7E;
+$pycon-yellow: #D2B954;
+
+$pycon-dark-blue-hover: #05007A;
+$pycon-red-hover: #871B00;
+$pycon-green-hover: #018A65;
+$pycon-yellow-hover: #B89E45;
+
+///
+
+$primary: $pycon-yellow;
+$primary-hover: $pycon-yellow-hover;
+
+$info: $pycon-dark-blue;
+$link: $pycon-red;
+$success:  $pycon-green;
+$warning: $pycon-yellow;
+$danger: $pycon-red;
+
+
+$grey--ligth:#f8f6f6;
+$grey--medium: #e5e0de;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Montserrat&display=swap');
+
+@import '../libs/bulma/bulma.sass';
+@import '../libs/bulma/bulma-timeline.sass';
+@import './sponsors.scss';
+
+@font-face {
+  font-family: 'Pacifico';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://fonts.gstatic.com/s/pacifico/v12/FwZY7-Qmy14u9lezJ-6H6MmBp0u-.woff2) format('woff2');
+  font-display: swap;
+}
+
+.hero.is-warning {
+  color: white;
+}
+
+.hero-body.darktext {
+  color: $pycon-dark-blue;
+}
+
+.hero.is-link .title{
+  color: white;
+}
+
+.navbar {
+  background-color: $primary !important;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.4);
+}
+
+.navbar-link {
+  color: $pycon-dark-blue !important;
+  border-color: $pycon-dark-blue !important;
+}
+
+.navbar-dropdown {
+  color: $pycon-dark-blue !important;
+}
+
+.navbar-item {
+  background-color: $primary !important;
+  color: $pycon-dark-blue !important;
+}
+
+.navbar-link:not(.is-arrowless)::after {
+  color: $pycon-dark-blue !important;
+  border-color: $pycon-dark-blue !important;
+}
+
+.navbar-item:hover {
+  background-color: $primary-hover !important;
+}
+
+.navbar-dropdown {
+  background-color: $primary !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Outfit', sans-serif;
+}
+
+p {
+  font-family: 'Outfit', sans-serif;
+}
+
+.title {
+  font-size: 1.3rem;
+  padding-top: 10px;
+}
+
+.logo {
+  background-color: rgba(255,255,255,0.6);
+}
+
+.cover-box {
+  padding: 50px;
+}
+
+.transparent-black-background {
+  background-color: rgba(0,0,0,0.6);
+}
+
+.message.is-info {
+  color: $pycon-dark-blue;
+}
+
+.message-body {
+  .subtitle {
+    margin-bottom: 0.5rem !important;
+    margin-top: 1.5rem !important;
+  }
+
+  h1 {
+    @extend .subtitle, .is-2;
+    padding-bottom: 5px;
+  }
+
+  h2 {
+    @extend .subtitle, .is-3;
+    padding-bottom: 5px;
+  }
+
+  h3 {
+    @extend .subtitle, .is-4;
+    padding-bottom: 5px;
+  }
+
+  h4 {
+    @extend .subtitle, .is-5;
+    padding-bottom: 5px;
+  }
+
+  h5 {
+    @extend .subtitle, .is-6;
+    padding-bottom: 5px;
+    font-weight: bold;
+  }
+
+  h6 {
+    @extend .subtitle, .is-6;
+  }
+
+
+  figure {
+    margin: 25px !important;
+  }
+
+  ol,
+  ul {
+    margin-inline-start: 50px;
+    list-style-type: disc;
+  }
+
+  .table {
+    margin: 25px !important;
+    padding: 5px !important;
+  }
+
+  table {
+    @extend .table;
+  }
+
+  .image {
+    @extend .has-text-centered;
+    background: $white-ter;
+    margin: 0 auto !important;
+    min-width: 214px;
+
+    figcaption {
+      color: $grey-darker;
+      margin-bottom: 4px;
+      margin-left: 2px;
+      margin-right: 2px;
+      padding-bottom: 4px;
+    }
+    img {
+      display: inline-block;
+    }
+  }
+  img {
+    display:block;
+    margin: 0 auto;
+  }
+  p {
+    padding-bottom: 15px;
+    padding-top: 15px;
+  }
+}
+
+
+.grid-container {
+  display: grid;
+  grid-gap: 0.5em;
+}
+
+
+.card {
+  height: max-content;
+}
+
+#map {
+  height: 400px;
+  margin-bottom: 50px;
+  width: 100% !important;
+}
+
+.fc .fc-toolbar-title {
+  font-size: 1rem !important;
+}
+
+.card-footer {
+  padding: 0.5em;
+}
+
+#cover-image-grx {
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+}
+
+#cover-section{
+  padding: 0;
+}
+
+.articles {
+  margin: 5rem 0;
+  margin-top: -200px;
+}
+.articles .content p {
+  line-height: 1.9;
+  margin: 15px 0;
+}
+.author-image {
+  position: absolute;
+  top: -80px;
+  left: 50%;
+  width: 150px;
+  height: 150px;
+  margin-left: -65px;
+  border: 3px solid $info;
+  border-radius: 50%;
+}
+.media-center {
+  display: block;
+  margin-bottom: 1rem;
+}
+.media-content {
+  margin-top: 3rem;
+}
+.article, .promo-block {
+  margin-top: 6rem;
+}
+div.column.is-8:first-child {
+  padding-top: 0;
+  margin-top: 0;
+}
+.article-title {
+  font-size: 2rem;
+  font-weight: lighter;
+  line-height: 2;
+}
+.article-subtitle {
+  color: $grey;
+  margin-bottom: 1rem;
+}
+.promo-block .container {
+  margin: 1rem 5rem;
+}
+.article-body{
+  text-align: justify;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+}
+
+#keynoters-container {
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap:15em;
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+
+@media (max-width: 1048px) {
+  #keynoters-container {
+    padding: 0;
+    grid-gap:0.5em;
+  }
+
+  .article-body{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+  }
+}
+
+.warning-element{
+  margin-top: 0px;
+  height:auto;
+  padding:5px;
+  margin-bottom: 0 !important;
+}
+
+// Ios
+@supports (-webkit-touch-callout: none) {
+  #cover-image-grx {
+    background-attachment: inherit !important;
+    background-repeat: inherit !important;
+  }
+}
+
+.bullet-points {
+    list-style: square;
+}
+
+.icon-bluesky {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/></svg>');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+.hero-body-content {
+  width: 100%;
+  max-width: calc(16 / 9 * 100vh);
+  margin: 0 auto;
+}
+
+.navbar {
+  color: #03004B;
+}
+
+.navbar-burger {
+  color: $pycon-dark-blue !important;
+}
+
+
+.section-dark {
+  background-color: $pycon-beige;
+  padding: 60px 0px;
+}
+
+.statistic {
+  color: white;
+}
+
+.statistic-sponsors {
+  background-color: $pycon-yellow;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  padding: 30px;
+}
+
+.statistic-days {
+  background-color: $pycon-green;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  padding: 30px;
+}
+
+.statistic-talks {
+  background-color: $pycon-dark-blue-hover;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  padding: 30px;
+}
+
+.statistic-collaborators {
+  background-color: $pycon-red;
+  border-bottom-left-radius: 30px;
+  padding: 30px;
+}
+
+.statistic-attendees {
+  background-color: $pycon-grey;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin-bottom: 11px;
+  padding: 50px;
+  padding-top: 72px;
+  padding-bottom: 71px;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.border {
+  padding: 10px;
+  border-width: 1px;
+  min-width: 75px;
+}
+
+.border-black {
+  border: 1px solid black;
+  color: black;
+}
+
+.border-white {
+  color: white;
+  border: 1px solid white;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.text-gray-800 {
+  color: #2d3748;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+.pretix-widget button{
+  background-color: $pycon-red !important;
+  color: white !important;
+}
+
+.pretix-widget button:hover{
+  background-color: $pycon-red-hover !important;
+  color: white !important;
+}
+
+.pretix-widget .pretix-widget-item-count-group {
+  color: white !important;
+}
+
+.c4p-button {
+  color: $pycon-dark-blue;
+}
+
+.c4p-button:hover {
+  color: $pycon-dark-blue-hover;
+}
